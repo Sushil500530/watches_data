@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "SmartWatch X",
+      "price": 199.99
+    },
+    {
+      "id": 2,
+      "name": "SmartWatch Y",
+      "price": 179.99
+    },
+    {
+      "id": 3,
+      "name": "UltraSmart Pro",
+      "price": 249.99
+    },
+    {
+      "id": 4,
+      "name": "SmartWatch Z",
+      "price": 149.99
+    },
+    {
+      "id": 5,
+      "name": "SmartWatch A",
+      "price": 159.99
+    }
+  ]
